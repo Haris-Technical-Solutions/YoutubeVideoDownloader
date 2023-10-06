@@ -2,7 +2,6 @@ import pytube
 import os
 from pathlib import Path
 from pytube.cli import on_progress
-import autopytoexe
 
 
 """  
